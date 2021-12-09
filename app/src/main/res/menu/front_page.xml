@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+      android:id="@+id/itemLogin"
+      android:title="Login"
+     app:showAsAction="always"/>
+  <item
+      android:id="@+id/itemAboutUs"
+      android:title="About Us"
+      app:showAsAction="always"/>
+  <item
+      android:id="@+id/itemProfile"
+      android:title="Profie"
+      app:showAsAction="always"
+      android:icon="@mipmap/ic_profile"/>
+</menu>
