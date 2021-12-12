@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android studio files/FoodApp/app/src/main/res/drawable/profilepic_circle.xml" value="0.15833333333333333" />
+        <entry key="..\:/Android studio files/FoodApp/app/src/main/res/drawable/top_bg_shape.xml" value="0.15833333333333333" />
+        <entry key="..\:/Android studio files/FoodApp/app/src/main/res/layout/activity_about_me.xml" value="0.2" />
         <entry key="..\:/Android studio files/FoodApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Android studio files/FoodApp/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android studio files/FoodApp/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Android studio files/FoodApp/app/src/main/res/layout/add_menu.xml" value="0.2" />
+        <entry key="..\:/Android studio files/FoodApp/app/src/main/res/layout/non_veg_file.xml" value="0.4" />
         <entry key="..\:/Android studio files/FoodApp/app/src/main/res/menu/front_page.xml" value="0.27291666666666664" />
       </map>
     </option>
